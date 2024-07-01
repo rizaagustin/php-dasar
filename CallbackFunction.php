@@ -12,4 +12,4 @@ sayHello("Riza",function(string $name):string{
     return strtoupper($name);
 });
 
-sayHello("Riza","strtoupper");
+sayHello("Riza3","strtoupper");
