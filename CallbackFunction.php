@@ -16,3 +16,5 @@ sayHello("Riza3","strtoupper");
 
 sayHello("Riza2","strtoupper");
 
+sayHello("Riza2","strtoupper");
+
