@@ -13,3 +13,6 @@ sayHello("Riza",function(string $name):string{
 });
 
 sayHello("Riza3","strtoupper");
+
+sayHello("Riza2","strtoupper");
+
