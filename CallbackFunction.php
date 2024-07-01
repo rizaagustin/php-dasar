@@ -11,3 +11,5 @@ sayHello("Riza","strtolower");
 sayHello("Riza",function(string $name):string{
     return strtoupper($name);
 });
+
+sayHello("Daus","strtoupper");
